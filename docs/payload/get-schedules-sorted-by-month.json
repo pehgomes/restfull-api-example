@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "peopleId": "104ba59c-1f8c-463f-94d7-5b6215737bf3",
+      "name": "Pedro",
+      "birthDate": "23/6"
+    },
+    {
+      "peopleId": "1694c334-5746-4a83-9e77-73ad005901d5",
+      "name": "Tiago",
+      "birthDate": "25/6"
+    },
+    {
+      "peopleId": "1c4577c1-8bbe-49d1-920c-423d408269b7",
+      "name": "Jenny",
+      "birthDate": "25/8"
+    }
+  ],
+  "page": {
+    "number": 1,
+    "size": 20,
+    "totalPages": 1,
+    "totalElements": 3
+  },
+  "navigation": {
+    "first": 1,
+    "previous": null,
+    "next": null,
+    "last": 1
+  }
+}
