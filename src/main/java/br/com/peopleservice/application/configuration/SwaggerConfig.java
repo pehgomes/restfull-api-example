@@ -35,10 +35,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
                 .version("1.0.0")
                 .license("Apache License Version 2.0")
                 .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0\"")
-                .contact(new Contact("Pedro H. Gomes::linkedin",
-                        "https://www.linkedin.com/in/pedro-gomes-h/",
-                        "pedrogomesup@gmail.com"))
-                .contact(new Contact("pehgomes::GitHub", "https://github.com/pehgomes/", ""))
+                .contact(new Contact("Repositório dessa API ", "https://github.com/pehgomes/restfull-api-example", ""))
                 .build();
     }
 
